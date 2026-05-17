@@ -1,11 +1,11 @@
 {
-  "name": "yjs-websocket-relay",
+  "name": "websocket-relay",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "y-websocket-server": "^1.0.0"
+    "ws": "^8.14.2"
   }
 }
